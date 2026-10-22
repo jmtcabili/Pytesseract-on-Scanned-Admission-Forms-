@@ -1,0 +1,24 @@
+# Image datasets (~800 MB) — host externally, see README
+Mail Merged Forms with Effects/
+Edited-9999/
+noise/
+Mail Merged Forms - Rotated/
+*.zip
+
+# Generated output
+denoised_image.jpg
+
+# Old copy of Pytesseract.ipynb
+Pytesseract (copy).ipynb
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
